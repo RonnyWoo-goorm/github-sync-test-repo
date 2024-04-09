@@ -27,4 +27,6 @@ const Sample = ({ addSample }) => {
     );
 }
 
+//test
+
 export default Sample;
